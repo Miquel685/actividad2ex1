@@ -1,1 +1,1 @@
-Aquest és un document compartit.
+usuari 2 modifica el fitxer
