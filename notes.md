@@ -1,1 +1,1 @@
-Aquest és un document compartit.
+Aquest és un document editat per l'usuari 1.
