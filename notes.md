@@ -1,1 +1,1 @@
-Aquest és un document editat per l'usuari 1.
+Aquest és un document editat per l'usuari 1. usuari 2 modifica el fitxer
